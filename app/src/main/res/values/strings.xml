@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Prince of Persia</string>
+    <string name="a">Once upon a time there was mighty Prince of Persia</string>
+    <string name="a1">He fell into the well</string>
+    <string name="a2">He wanted to marry the princess of Arabia</string>
+    <string name="b">He had a long journey to travel, on his way he meets the butchers of Saladin hungry for flesh</string>
+    <string name="b1">clang!clang! and his sword snaps due to overhardening</string>
+    <string name="b2">two swift strokes and he beheads the butchers</string>
+    <string name="c">He had to stop for the night and sleep so he stops among the rocks</string>
+    <string name="c1">Tired from the journey he sleeps unaware and the robbers smash his head!!</string>
+    <string name="c2">The prince with gifted talent of acute hearing is well aware of his surroundings and defends himself </string>
+    <string name="d">He reaches the palace and sees that the princess has a criteria for marriage which was:- Defeat the wild bison from central america  </string>
+    <string name="d1">Bison overpowers and stamps on the chest of the prince</string>
+    <string name="d2">The prince with a lucky grab of the head uses the bison\'s force against itself to Win</string>
+    <string name="victory">The Prince of Persia marries the Princess of Arabia </string>
+    <string name="defeat">Alas! the prince is dead</string>
+    <string name="toast">The prince survived</string>
+</resources>
